@@ -1,0 +1,8 @@
+,B,CD14+ Mono,CD8+ T,DC,FCGR3A+ Mono,Memory CD4+,Naive CD4+ T
+B,436,6,0,0,0,0,0
+CD14+ Mono,0,1565,0,0,1,0,11
+CD8+ T,0,1,0,0,0,19,205
+DC,7,24,0,0,0,0,1
+FCGR3A+ Mono,0,131,0,0,0,0,0
+Memory CD4+,0,12,0,0,0,564,61
+Naive CD4+ T,1,6,0,0,0,62,557
