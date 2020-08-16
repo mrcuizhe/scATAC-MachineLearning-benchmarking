@@ -18,7 +18,7 @@ All processed matrix used in paper are also provided.
 XXX
 
 ## Credits
-Zhe Cui, Tao Jiang, Bo Liu, Liran Juan and Tianyi Zang
+Zhe Cui, Liran Juan, Tao Jiang, Bo Liu, Tianyi Zang and Yadong Wang
 
 ## Email
  cuizhe@hit.edu.cn, mrcuizhe@gmail.com
