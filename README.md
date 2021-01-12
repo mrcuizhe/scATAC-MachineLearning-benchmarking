@@ -15,7 +15,7 @@ All processed matrix used in paper are also provided.
 
 
 ## Citation
-XXX
+Zhe Cui, Liran Juan, Tao Jiang, Bo Liu, Tianyi Zang, Yadong Wang (2020), 'Assessment of Machine Learning Methods for Classification in Single Cell ATAC-seq', 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (Accepted), Seoul, Korea.
 
 ## Credits
 Zhe Cui, Liran Juan, Tao Jiang, Bo Liu, Tianyi Zang and Yadong Wang
